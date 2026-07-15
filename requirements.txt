@@ -1,0 +1,6 @@
+requests
+psutil
+keyboard
+win32api
+mouse
+pillow
